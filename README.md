@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Thomas</h1>
-<h3 align="center">Apaixonado por programação e mundo digital.</h3>
+<h3 align="center">Programador criativo</h3>
 
 - 📫 Pode me contactar pelo e-mail **thomas.jt2005@gmail.com**
 
