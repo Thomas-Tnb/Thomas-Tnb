@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Thomas</h1>
-<h3 align="center">Programador criativo</h3>
+<h3 align="center">Programador</h3>
 
-- 📫 Pode me contactar pelo e-mail **thomas.jt2005@gmail.com**
+- 📫 Pode me contactar pelo e-mail **thomas.tanabe01@gmail.com**
 
 - 📄 Também estou no Linkedin ! [www.linkedin.com/in/thomas-tanabe](www.linkedin.com/in/thomas-tanabe)
 
